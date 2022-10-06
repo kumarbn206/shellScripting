@@ -1,0 +1,8 @@
+#!/bin/bash
+
+num1=100
+num2=10
+
+result=`expr $num1 - $num2`
+
+echo "$result"
