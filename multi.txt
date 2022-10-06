@@ -1,0 +1,13 @@
+#!/bin/bash
+
+echo "enter the first number"
+
+read firstno
+
+echo "enter the second number"
+
+read secondno
+
+result=`expr $firstno \* $secondno`
+
+echo "$result"
