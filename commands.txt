@@ -1,0 +1,39 @@
+pwd - displays present working directory
+clear - clear the screen
+date - display's present date
+cal- display's calender
+mkdir - create new directory with given name
+cd - change to directory
+touch - create a empty file
+cat - Display content of file
+cp- Copy a file or directory
+mv- Moves a file or directory
+head- Display first 10 lines of a file
+tail- Display last 10 lines of a file
+tac- Display file content lines in reverse
+more- Similar to cat and here we can display large content by using Enter
+id - Display id of user/group
+vi - Text Editor to write programs of text
+grep - Filter to Search given pattern in the file content
+diff - Compares the content of two different files
+ping  Check the connectivity of the server
+history - Review all the commands which you have entered
+hostname - Display hostname
+hostname -i - Display host ip
+chmod - Change the permissions to access file
+nl - Display the Line Numbers
+wc - Given number of Lines, Words and Characters available in the file content
+uniq - Remove duplicates of file content (it can remove only continous duplicates)
+rmdir - Removes the specified directory (directory should be empty)
+rm - Remove file/directory (directory need not be empty)
+cat > filename - Create new file and writes the content and ctrl + D to save the content into file
+cat file1 file2 > file3 - Creates new file and content of both files will be copied to new file
+ls - List the content of Directory
+ls *.txt - List all the files with given extension
+ls -a - List hidden files
+ls -l - List long listing files with rwx permissions
+ls -ll - List long listing files with rwx permissions with hidden files
+ls -lrt - List long listing files with rwx permissions with recently modified files at the end
+ls -lt - List long listing files with rwx permissions with recently modified files at the first
+
+
