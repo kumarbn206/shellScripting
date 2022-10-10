@@ -1,8 +1,0 @@
-#!/bin/bash
-
-num1=$1
-num2=$2
-
-result=`expr $1 + $2`
-
-echo "$result"
